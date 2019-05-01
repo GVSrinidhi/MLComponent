@@ -1,0 +1,11 @@
+DESCRIPTION OF THE PROJECT!!
+
+There is an increase in cycling culture around the world and automated cycle renting systems are being set up.
+Cycles are taken from one stop and dropped at any other stop.
+Cycles are used depending on many features such as weather, month, year.
+Being able to predict the requirement of cycles will optimise the cycle renting systems.
+They will help to use the right number of cycles and make the most out of them.
+This is the problem that we have solved.
+We have build a model that will predict the number of cycles required/consumed each day.
+We have used a SVR model which will show the prediction for the given input of date and a few more parameters.
+This project aims to optimize the number of cycles at a stop by taking into consideration factors such as day of the week, weather etc.
